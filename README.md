@@ -1,1 +1,1 @@
-This is a sample html repository
+This is the sample html repository. 
